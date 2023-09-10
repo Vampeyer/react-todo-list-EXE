@@ -1,0 +1,48 @@
+{
+  "name": "React-Todolist-App-EXE",
+  "version": "1.0.0",
+  "main": "init.js",
+  "scripts": {
+   
+  
+    "start": "electron .",
+    "build": "electron-packager ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dialog": "^0.3.1",
+    "electron-packager": "^15.5.2",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "multer": "^1.4.5-lts.1",
+    "path": "^0.12.7",
+    "shell": "^0.9.4"
+  },
+  "devDependencies": {
+    "electron": "^14.2.9",
+    "electron-builder": "^23.4.0"
+  },
+  "build": {
+    "directories": {
+      "output": "dist"
+    },
+    "win": {
+      "target": "nsis"
+    },
+    "mac": {
+      "target": "dmg"
+    },
+    "linux": {
+      "target": "AppImage"
+    },
+    "extraResources": [
+      {
+        "from": "./install-script",
+        "to": "./install-script"
+      }
+    ]
+  },
+  "keywords": [],
+  "description": ""
+}
