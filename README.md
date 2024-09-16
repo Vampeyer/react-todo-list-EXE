@@ -2,7 +2,12 @@
 
 ----- You may build this , or you may download the release here  - 
 
+Download the mobile andorid version , through the link here  , 
+
 Andorid APK ----- https://drive.google.com/file/d/1-QIO7BCgslDMmEkcvROggShZeMb3J-7k/view?usp=drive_link
+
+or the windows download here  
+
 Windows .exe file ,  ----- https://drive.google.com/file/d/1iMKRZgsVZelGY_2T1cQU3F0RwVgOiMMR/view?usp=drive_link
 
 --------------------------------------------------------------------------------------------------------------
