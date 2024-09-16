@@ -34,5 +34,3 @@ Enjoy !
 
 
 
-
-<img src="reacttodolist.gif" > 
