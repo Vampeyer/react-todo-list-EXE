@@ -22,6 +22,15 @@ after cloning this repo into the working directory
 
 npm install 
 
+npm start   - to run electron  or 
+
+npm build   --- to run electron-packager 
+
+
+---- After running you should see  the exe file built in the folder. 
+
+Enjoy ! 
+
 
 
 
